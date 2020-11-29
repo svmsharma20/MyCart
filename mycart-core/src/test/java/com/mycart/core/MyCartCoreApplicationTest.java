@@ -1,5 +1,6 @@
 package com.mycart.core;
 
+import com.mycart.MyCartCoreApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
